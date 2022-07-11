@@ -1,2 +1,2 @@
 # Curso1
-curso degithub
+curso de github
